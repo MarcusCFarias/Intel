@@ -1,0 +1,12 @@
+
+Descrição dos arquivos
+
+descricao.txt	 => este arquivo
+
+Intel_2022_2.pdf => especificação do trabalho
+
+caso1.txt	=> caso de teste. 5 espaços em branco. Código = A0
+caso2.txt	=> caso de teste. Letras "A" até "Z". Código = 7DF
+caso3.txt	=> caso de teste. 10 linhas com números "0" até "9". Código = 1551
+caso4.dat	=> caso de teste. Arquivo binário aleatório. Código = 491FB4
+
